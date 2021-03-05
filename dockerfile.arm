@@ -1,5 +1,5 @@
 FROM hypriot/rpi-node:latest
-
+SHELL [ "/bin/bash" ]
 # Create app directory
 WORKDIR /usr/src/app
 
