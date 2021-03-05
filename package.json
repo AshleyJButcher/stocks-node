@@ -1,0 +1,16 @@
+{
+  "name": "stock-node",
+  "version": "1.0.0",
+  "description": "stock node.js",
+  "main": "main.js",
+  "dependencies": {
+    "influx": "^5.7.0",
+    "yahoo-stock-prices": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
